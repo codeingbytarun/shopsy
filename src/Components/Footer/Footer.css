@@ -1,0 +1,13 @@
+
+footer{
+    font-family: Poppins;
+}
+ul{
+    color: rgb(127, 129, 131);
+    font-weight: 500;
+    gap: 35px;
+    list-style: none;
+}
+.footer-icon-container{
+        cursor: pointer;
+}

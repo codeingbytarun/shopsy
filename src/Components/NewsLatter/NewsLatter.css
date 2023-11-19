@@ -1,0 +1,54 @@
+.newslatter_bg{
+    background: linear-gradient(180deg,#fde1ff,#e1ffea22 60%);
+    height: 45vh;
+    width: 65%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: auto;
+    padding: 0px 140px;
+    margin-top: 35%;
+    gap: 30px;
+   
+    
+}
+.newslatter_bg .form-control{
+    width: 450px
+}
+.btn-danger{
+    width: 150px;
+    height: 50px;
+    float: right;
+   
+    background-color: black;
+}
+.newslatter_bg div{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: transparent;
+    border-radius: 80px;
+    border:1px solid #e3e3e3;
+    width: 550px;
+    height: 50px;
+    
+}
+.newslatter_bg  input{
+    width: 500px;
+    margin-left: 30px;
+    border: none;
+    outline: none;
+    color: #616161;
+    font-family: Poppins;
+    font-size: 16px;
+}
+.newslatter_bg button{
+    width: 180px;
+    height: 50px;
+    border: 1px solid transparent;
+    border-radius: 70px;
+    background: black;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+}

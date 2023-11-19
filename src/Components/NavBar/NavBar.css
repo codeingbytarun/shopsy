@@ -1,0 +1,15 @@
+ul li{
+    cursor: pointer;
+}
+
+ul li hr{
+   margin-top: 3%;
+    width: 100%;
+    height: 3px;
+    border-radius: 10px;
+    background: #FF4141;
+}
+.btn-outline-danger{
+    width: 120px;
+    height: 45px;
+}
